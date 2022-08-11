@@ -1,0 +1,12 @@
+{
+    "token": "PUT IN DISCORD BOT TOKEN HERE",
+    "give_role": true,
+    "name_of_role": "ROLE NAME",
+    "guild_id": 0,
+    "send_to_webhook": true,
+    "webhook": "PUT IN WEBHOOK HERE",
+    "auto_spread": true,
+    "print_user_info": true,
+    "print_user_sended_qr": true,
+    "spread_message": "jo join discord.gg/xyxyxy"
+}
