@@ -1,10 +1,10 @@
 <h1 align="center">
-  Autism Qr Code Grabber Bot 8️⃣
+  Autism Qr Code Grabber Bot
 </h1>
 
 <p align="center"> 
   <kbd>
-<img src="">
+<img src="https://cdn.discordapp.com/attachments/1007147665684963450/1007147676762112040/unknown.png">
   </kbd>
 </p>
 
