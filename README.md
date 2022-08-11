@@ -9,7 +9,8 @@
 </p>
 
 You may need to update/change the chrome driver (https://chromedriver.chromium.org/downloads)
-Need to turn on discord bot Server Member Intends
+
+you Need to turn on discord bot Server Member Intends
 
 How To Use :
 1. Start RequirementsInstaller.bat
