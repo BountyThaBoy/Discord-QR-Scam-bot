@@ -13,7 +13,8 @@ You may need to update/change the chrome driver (https://chromedriver.chromium.o
 you Need to turn on discord bot Server Member Intends
 
 How To Use :
-1. Start RequirementsInstaller.bat
-2. open setup.json and set things up
-3. Start start.bat
-4. Tokens get send to Tokens.txt
+1. install google chrome
+2. Start RequirementsInstaller.bat
+3. open setup.json and set things up
+4. Start start.bat
+5. Tokens get send to Tokens.txt
